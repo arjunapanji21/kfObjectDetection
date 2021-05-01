@@ -2,7 +2,6 @@
 Object Detection And Prediction Using Kalman Filter OpenCV
 
 ## Requirements
-<p align="center">
 Name                    | Version
 ----------------------- | ---------
 dynamixel-sdk           | 3.7.41
@@ -11,7 +10,6 @@ numpy                   | 1.19.5
 opencv-contrib-python   | 3.4.2.16
 opencv-python           | 3.4.2.16
 virtualenv              | 15.1.0
-</p>
 
 ## Samples
 <p align="center">
