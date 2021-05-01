@@ -13,11 +13,11 @@ virtualenv              | 15.1.0
 
 ## Samples
 <center>
-<img src="https://github.com/arjunapanji21/KFObjectDetection/blob/main/samples/sample1.png" alt="alt text" width="800px" height="100%">
+<img src="https://github.com/arjunapanji21/KFObjectDetection/blob/main/samples/sample1.png" alt="alt text" width="500px" height="100%">
 
-<img src="https://github.com/arjunapanji21/KFObjectDetection/blob/main/samples/sample2.png" alt="alt text" width="800px" height="100%">
+<img src="https://github.com/arjunapanji21/KFObjectDetection/blob/main/samples/sample2.png" alt="alt text" width="500px" height="100%">
 
-<img src="https://github.com/arjunapanji21/KFObjectDetection/blob/main/samples/plot-x.png" alt="alt text" width="800px" height="100%">
+<img src="https://github.com/arjunapanji21/KFObjectDetection/blob/main/samples/plot-x.png" alt="alt text" width="500px" height="100%">
 </center>
 
 I wrote this code using python2, see the demo here https://www.youtube.com/watch?v=BUR2iP2G0wU
