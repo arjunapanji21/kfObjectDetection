@@ -12,6 +12,8 @@ opencv-python           | 3.4.2.16
 virtualenv              | 15.1.0
 
 ## Samples
+
+<img src="https://github.com/arjunapanji21/KFObjectDetection/blob/main/samples/sample1.png" alt="alt text" width="400px" height="100%">
 ![alt text](https://github.com/arjunapanji21/KFObjectDetection/blob/main/samples/sample1.png | width=300)
 
 ![alt text](https://github.com/arjunapanji21/KFObjectDetection/blob/main/samples/sample2.png | width=300)
